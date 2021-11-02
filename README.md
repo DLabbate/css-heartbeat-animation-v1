@@ -1,6 +1,6 @@
 # CSS Heartbeat Animation
 
-This project is a super simple tutorial to implement a CSS heartbeat💗 animation, which can be useful for a "like" button!
+This project is a super simple tutorial to implement a CSS heartbeat❤️ animation, which can be useful for a "like" button!
 
 <img src="./src/heartbeat.gif" />
 
@@ -31,4 +31,3 @@ The code is outlined below:
   transition: opacity 500ms;
 }
 ```
-
