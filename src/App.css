@@ -43,7 +43,7 @@
   fill: red;
   color: red;
   opacity: 1;
-  transition: 500ms;
+  transition: opacity 500ms;
 }
 
 .card {
